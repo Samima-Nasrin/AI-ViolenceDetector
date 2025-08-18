@@ -32,8 +32,8 @@ RWF-2000/
 │ ├── Fight/
 │ ├── NonFight/
 ├── val/
-│ ├── Fight/
-│ └── NonFight/
+  ├── Fight/
+  └── NonFight/
 
 ```
 
