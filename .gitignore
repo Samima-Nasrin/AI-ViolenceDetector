@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+#static files
+
+kaggle.json
