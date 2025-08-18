@@ -31,7 +31,7 @@ RWF-2000/
 ├── train/
 │ ├── Fight/
 │ ├── NonFight/
-├── val/
+└── val/
   ├── Fight/
   └── NonFight/
 
