@@ -70,3 +70,9 @@ This project leverages **deep learning for video-based violence detection**, com
 - Using **3D CNNs** or **Vision Transformers (ViT)** for better spatio-temporal modeling.  
 - Adding **data augmentation** to increase robustness to camera angle, lighting, and motion variations.  
 - Using **attention mechanisms** in LSTM to focus on critical frames indicating violence.
+
+---
+
+## Author
+
+Built with ♡ by Samima Nasrin. All experiments, demos, and implementations were created end-to-end by me.
