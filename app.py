@@ -9,7 +9,7 @@ import io
 from PIL import Image
 from streamlit_webrtc import VideoTransformerBase, webrtc_streamer
 
-# ---------- MODEL DEFINITIONS ----------
+# ---------- MODEL DEFINITIONS ------------
 class CNNEncoder(nn.Module):
     def __init__(self, out_features=256):
         super().__init__()
